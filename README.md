@@ -4,9 +4,6 @@
 
 Hum2Song! is an AI-powered web application that is able to compose the musical accompaniment of a melody produced by a human voice.
 
-Demo: https://www.carlostoxtli.com/hum2song/
-
-Blog post: https://medium.com/@carlostoxtli/hum2song-multi-track-polyphonic-music-generation-from-voice-melody-transcription-with-neural-7a777445550b
 
 ## Instructions
 
