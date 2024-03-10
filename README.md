@@ -1,8 +1,8 @@
-![Logo](https://www.carlostoxtli.com/hum2song/assets/images/hum2song.png)
 
-# Hum2Song: Multi-track Polyphonic Music Generation from Voice Melody Transcription with Neural Networks
 
-Hum2Song! is an AI-powered web application that is able to compose the musical accompaniment of a melody produced by a human voice.
+# neel's beat buster: Multi-track Polyphonic Music Generation from Voice Melody Transcription with Neural Networks
+
+neel's beat buster is an AI-powered web application that is able to compose the musical accompaniment of a melody produced by a human voice.
 
 
 ## Instructions
